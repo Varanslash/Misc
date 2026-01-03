@@ -1,3 +1,5 @@
+# I'd like you to go read the README now.
+
 $counter = 0 # variable
 Add-Type -AssemblyName PresentationFramework # load assembly for message box
 do {
@@ -17,3 +19,4 @@ run it and move on with your day.
 
 Have fun nerds!
 #>
+
