@@ -20,4 +20,5 @@ fn evenorodd(numbers: String) {
         println!("The number is odd.");
         thread::sleep(Duration::from_secs(1));
     }
+
 }
